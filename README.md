@@ -6,6 +6,6 @@
 
 **Author :** Anatole  de Chauveron
 
-** Licence :** All rights reserved
+**Licence :** All rights reserved
 
 Spring boot coffee machine.
