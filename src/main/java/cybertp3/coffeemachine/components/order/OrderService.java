@@ -1,4 +1,4 @@
-package cybertp3.coffeemachine.service;
+package cybertp3.coffeemachine.components.order;
 
 import org.springframework.stereotype.Service;
 

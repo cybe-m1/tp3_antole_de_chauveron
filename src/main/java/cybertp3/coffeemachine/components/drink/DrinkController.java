@@ -1,11 +1,8 @@
-package cybertp3.coffeemachine.controller;
+package cybertp3.coffeemachine.components.drink;
 
-import cybertp3.coffeemachine.models.Drink;
-import cybertp3.coffeemachine.service.DrinkService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Optional;
 
 @RequestMapping("tp3/coffee-machine/drinks")
 public class DrinkController {
