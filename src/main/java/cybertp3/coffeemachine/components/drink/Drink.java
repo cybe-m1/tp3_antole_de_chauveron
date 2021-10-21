@@ -1,5 +1,6 @@
-package cybertp3.coffeemachine.models;
+package cybertp3.coffeemachine.components.drink;
 
+import cybertp3.coffeemachine.components.drinktype.DrinkType;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

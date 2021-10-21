@@ -1,7 +1,5 @@
-package cybertp3.coffeemachine.service;
+package cybertp3.coffeemachine.components.drinktype;
 
-import cybertp3.coffeemachine.models.DrinkType;
-import cybertp3.coffeemachine.repository.DrinkTypeRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
